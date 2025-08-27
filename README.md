@@ -45,7 +45,7 @@ All services are deployed as lightweight, unprivileged LXC containers unless oth
 
 This repository contains detailed, step-by-step guides for some of the more complex setups in this lab.
 
-*   **[Ollama NVIDIA GPU Passthrough Guide](./proxmox-ollama-lxc-guide.md)**: A complete walkthrough of the process for passing an NVIDIA GPU to an unprivileged LXC container, including driver installation, troubleshooting, and final verification for the Ollama service.
+*   **[Ollama NVIDIA GPU Passthrough Guide](./ollama.md)**: A complete walkthrough of the process for passing an NVIDIA GPU to an unprivileged LXC container, including driver installation, troubleshooting, and final verification for the Ollama service.
 
 *(More guides will be added as the lab evolves.)*
 
