@@ -10,9 +10,9 @@ This guide provides a stable, repeatable configuration for achieving high-perfor
 
 ## 2. System Specifications
 
-*   **Server:** *(e.g., Dell Optiplex 7010 or Custom Build)*
-*   **CPU:** *(e.g., 3rd Gen Intel Core i5-3470)*
-*   **Dedicated GPU:** *(e.g., NVIDIA Quadro P400)*
+*   **Server:** Dell Optiplex 7010
+*   **CPU:** 3rd Gen Intel Core i5-3470 (with integrated HD2500 Graphics)
+*   **Dedicated GPU:** NVIDIA Quadro K1200
 *   **Proxmox VE Version:** 8.x
 
 ---
