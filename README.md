@@ -13,7 +13,7 @@ The entire lab runs on a single, power-efficient machine:
 *   **Server:** Dell Optiplex 7010
 *   **CPU:** 3rd Gen Intel Core i5-3470 (with integrated HD2500 Graphics)
 *   **GPU:** NVIDIA Quadro K1200 (Primarily for AI/ML workloads)
-*   **Memory:** 8 GB RAM
+*   **Memory:** 16 GB RAM
 *   **Storage:** LVM-Thin on local NVMe storage
 
 ---
