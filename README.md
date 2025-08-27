@@ -54,6 +54,7 @@ This repository contains detailed, step-by-step guides for some of the more comp
 *   **[Ollama NVIDIA GPU Passthrough Guide](./ollama.md)**: A complete walkthrough of the process for passing an NVIDIA GPU to an unprivileged LXC container, including driver installation, troubleshooting, and final verification for the Ollama service.
 
 *(More guides will be added as the lab evolves.)*
+
 ---
 
 ## Future Goals
