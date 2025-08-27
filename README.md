@@ -45,10 +45,15 @@ All services are deployed as lightweight, unprivileged LXC containers unless oth
 
 This repository contains detailed, step-by-step guides for some of the more complex setups in this lab.
 
+*   **[Dynamic DNS (No-IP) Setup Guide](./no-ip.md)**: Walks through the process of setting up a Dynamic DNS service using No-IP to handle a non-static home IP address. Covers creating the hostname, configuring a router to automate IP updates, and linking a custom domain via a `CNAME` record.
+
+*   **[Nginx Proxy Manager Guide](./nginx-proxy-manager.md)**: A guide to setting up Nginx Proxy Manager as the central gateway for secure remote access. Covers the initial LXC installation, security setup, and the process of configuring a Proxy Host with automated SSL for a backend service.
+
+*   **[n8n Self-Hosting Guide](./n8n.md)**: Details the deployment of n8n in an LXC and the critical post-installation steps. Focuses on configuring the environment for remote access (Webhook URL), ensuring privacy (disabling telemetry), and resolving the "Connection Lost" UI bug via WebSocket support.
+
 *   **[Ollama NVIDIA GPU Passthrough Guide](./ollama.md)**: A complete walkthrough of the process for passing an NVIDIA GPU to an unprivileged LXC container, including driver installation, troubleshooting, and final verification for the Ollama service.
 
 *(More guides will be added as the lab evolves.)*
-
 ---
 
 ## Future Goals
